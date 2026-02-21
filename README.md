@@ -1,8 +1,9 @@
 <center>
-    # Hi, Luke here👋
+    <h1>Hi, Luke here👋</h1>
+<a href="https://lukegonsalves.com">lukegonsalves.com📫</a>
+
+Currently studying Applied Math at UC Berkeley, contributing to the <a href="https://github.com/ocf">OCF</a>, and messing with <a href="https://lukegonsalves.com/blog/technology-post/">tech</a>
 </center>
-[lukegonsalves.com](https://lukegonsalves.com)
-Currently studying Applied Math at UC Berkeley, contributing to the [OCF](https://github.com/ocf), and messing with [tech](https://lukegonsalves.com/blog/technology-post/) 
 
 <!--
 
