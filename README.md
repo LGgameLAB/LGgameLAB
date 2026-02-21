@@ -1,7 +1,10 @@
-## Hi there 👋
+<center>
+    # Hi, Luke here👋
+</center>
+[lukegonsalves.com](https://lukegonsalves.com)
+Currently studying Applied Math at UC Berkeley, contributing to the [OCF](https://github.com/ocf), and messing with [tech](https://lukegonsalves.com/blog/technology-post/) 
 
 <!--
-**LGgameLAB/LGgameLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
