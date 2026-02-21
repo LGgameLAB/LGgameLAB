@@ -1,8 +1,10 @@
 <div align="center">
     <h1>Hi, Luke here👋</h1>
-<a href="https://lukegonsalves.com">lukegonsalves.com📫</a>
 
-Currently studying Applied Math at UC Berkeley, contributing to the <a href="https://github.com/ocf">OCF</a>, and messing with <a href="https://lukegonsalves.com/blog/technology-post/">tech</a>
+    <p>Currently studying Applied Math at UC Berkeley, contributing to the <a href="https://github.com/ocf">OCF</a>, and messing with <a href="https://lukegonsalves.com/blog/technology-post/">tech</a></p>
+
+    <p></p>
+    <a href="https://lukegonsalves.com">lukegonsalves.com📫</a>
 </div>
 
 <!--
